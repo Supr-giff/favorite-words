@@ -2,6 +2,19 @@
 
 This project is based on the [Flutter codelab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab).  
 All original content © Google, under terms of their license.
+# Favorite Words App
+
+A Flutter app that generates random English word pairs and lets users save their favorites.  
+Built as part of the official [Flutter Codelab](https://docs.flutter.dev/get-started/codelab), with custom enhancements by Supreem.
+
+## Features
+
+- Random word pair generation using `english_words` package
+- Save favorites with persistent state via `Provider`
+- Responsive UI with `NavigationRail`
+- Clean design with Material 3 theme
+
+## Getting Started
 
 # my_flutter_app
 
