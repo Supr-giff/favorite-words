@@ -1,3 +1,8 @@
+## Credits
+
+This project is based on the [Flutter codelab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab).  
+All original content © Google, under terms of their license.
+
 # my_flutter_app
 
 A new Flutter project.
